@@ -1,4 +1,5 @@
-[
+{
+  "books":[
   {
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
@@ -23,5 +24,5 @@
     "title": "The Hitchhiker's Guide to the Galaxy",
     "author": "Douglas Adams",
     "cover": "https://upload.wikimedia.org/wikipedia/en/b/b5/Hhgttg_cover1.jpg"
-  }
-]
+  }]
+}
