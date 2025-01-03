@@ -3,26 +3,53 @@
   {
     "title": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif/220px-First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/The_Lord_of_the_Rings_%281954%29.jpg" 
   },
   {
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/220px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c9/To_Kill_a_Mockingbird_1st_edition.jpg"
   },
   {
     "title": "1984",
     "author": "George Orwell",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/5/51/1984_first_edition_cover.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c4/1984_first_edition_cover.png"
   },
   {
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
-    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/PrideandPrejudiceCH3.jpg/220px-PrideandPrejudiceCH3.jpg"
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Pride_and_Prejudice_1813.jpg" 
   },
   {
-    "title": "The Hitchhiker's Guide to the Galaxy",
-    "author": "Douglas Adams",
-    "cover": "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg"
-  }]
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/7/75/The_Catcher_in_the_Rye_cover.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Hobbit_1937_first_edition.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b5/The_Great_Gatsby_1st_US_edition.jpg" 
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/30/The_Alchemist_%28book_by_Paulo_Coelho%29.jpg" 
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/0/0f/Harry_Potter_and_the_Philosopher%27s_Stone_book_cover.jpg" 
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Le_Petit_Prince.jpg" 
+  }
+  
+  ]
 }
